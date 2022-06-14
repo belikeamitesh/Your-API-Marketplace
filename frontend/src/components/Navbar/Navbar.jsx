@@ -47,12 +47,7 @@ const Navbar = () => {
         </div>
       ) : (
         <div className={styles.rightNav}>
-          <div
-            className={styles.rightNavItem}
-            onClick={() => navigate("/playground")}
-          >
-            Playground
-          </div>
+         
           <div
             className={styles.rightNavBtn}
             onClick={() => navigate("/login")}
