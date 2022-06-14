@@ -47,7 +47,7 @@ frontend
 
 ## Clone the repository
 ```
-$ git clone https://github.com/jainaayush01/apihub/ 
+$ git clone https://github.com/belikeamitesh/Your-API-Marketplace/ 
 ```
 
 <br/>
