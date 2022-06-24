@@ -1,10 +1,85 @@
-# YourAPI
+# 🚀 [YourAPI]()
 
-## Getting Started
 
-This project requires the following software to be intstalled on your system
-1. NodeJS / NPM - [https://nodejs.org/en/](https://nodejs.org/en/)
-2. Git - [https://git-scm.com/downloads](https://git-scm.com/downloads)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+
+<br/>
+
+# ✨ About
+* A Hub of APIs where users can display their APIs and share it with others to use it and create a nice website on top of their APIs.
+* Project also contains a Background Remover application to remove background of an image(uses remove.bg api).
+* Background Remover application is presented as an example for other users to create an web app by taking inspiration from apis present on the explore page.
+
+### Live Website - <b>[YourAPI]()</b>
+
+<br/>
+
+# ✨ Snapshots 💫💫
+
+![](https://snipboard.io/xy.jpg)
+
+
+<br/>
+
+# ✨ Folder Structure
+
+```
+frontend
+    src
+        assets -> contains logos, images, etc.
+        components -> react components
+        pages -> contains the web pages
+        utils -> utility functions
+        
+ backend
+    src
+        middlewares -> create and store new middlewares here
+        models -> create and store new models here
+        routes -> create and store new route groups here
+        utils -> create and store new utilities here
+
+```
+
+<br/>
+
+# ✨ Usage
+
+## Prerequisites
+* Git
+* Node & npm
+* MongoDB
+
+<br/>
+
+## Clone the repository
+```
+$ git clone https://github.com/belikeamitesh/Your-API-Marketplace/ 
+```
+
+<br/>
+
+## Client Side (PORT: 3000)
+1. Run following commands:
+    ```
+    $ cd frontend
+    $ npm install
+    ```
+
+2. Copy & rename ``` .env.example ``` to ``` .env``` 
+
+3. Add following environment variables:
+    ```
+    SKIP_PREFLIGHT_CHECK=true
+    REACT_APP_BACKEND_URL=http://localhost:5000
+    ```
+
+4. start and you are ready to go
+    ```
+    $ npm run start
+    ```
+
+<br/>
 
 ### Getting a copy of this starter 
 
@@ -12,23 +87,4 @@ You can simply fork this folder to start working on it.
 
 To push your changes to Github/Gitlab you need to create a new repository and push the changes there.
 
-## Folder Structure
-
-This is the predefined folder structure for this project. You can create new folder and files as per your requirement inside the `src` folder inside frontend or backend.
-
-```
-backend
-    src
-        middlewares -> create and store new middlewares here
-        models -> create and store new models here
-        routes -> create and store new route groups here
-        utils -> create and store new utilities here
-
-frontend
-    src
-        components -> create and store components here
-        pages -> create and store pages here
-        utils -> create and store utilities here
-
-```
 
