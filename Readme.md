@@ -17,7 +17,25 @@
 
 # ✨ Snapshots 💫💫
 
-![](https://snipboard.io/xy.jpg)
+## Home Page
+
+![clone images](/home1.png)
+
+## Login Page
+
+![clone images](/login.png)
+
+## Register Page
+
+![clone images](/signup.png)
+
+## Add API Page
+
+![clone images](/addapi.png)
+
+## All APIs Page
+
+![clone images](/allapis.png)
 
 
 <br/>
