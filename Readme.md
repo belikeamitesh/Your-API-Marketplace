@@ -33,9 +33,9 @@
 
 ![clone images](/addapi.png)
 
-## All APIs Page
+## MY APIs Page
 
-![clone images](/allapis.png)
+![clone images](/myapis.png)
 
 
 <br/>
