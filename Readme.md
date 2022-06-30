@@ -11,7 +11,7 @@
 * Project also contains a Background Remover application to remove background of an image(uses remove.bg api).
 * Background Remover application is presented as an example for other users to create an web app by taking inspiration from apis present on the explore page.
 
-### Live Website - <b>[YourAPI]()</b>
+### Live Website - <b>[YourAPI](https://your-api.netlify.app/)</b>
 
 <br/>
 
