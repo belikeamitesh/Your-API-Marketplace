@@ -14,8 +14,6 @@
 
 ### Live Website - <b>[APIHub](https://api-hub-dev.vercel.app/)</b>
 
-### YouTube Video - <b>[YT](https://youtu.be/usncU7HzBPo)</b>
-
 <br/>
 
 # ✨ Folder Structure
